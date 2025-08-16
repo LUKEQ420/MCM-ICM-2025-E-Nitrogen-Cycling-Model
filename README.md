@@ -15,8 +15,9 @@
 
 </div>
 
-> 🏆 **Finalist Award** | Our solution for the **MCM/ICM 2025 Problem E**.
-> - This project presents a dynamic modeling approach, utilizing modified Lotka-Volterra equations, to simulate the nitrogen cycle in forest and agricultural ecosystems and analyze the transition from forest to sustainable farmland.
+> 🏆 **Finalist Award**(Top 1.8% of 27,456 teams worldwide).
+> - This repository contains our complete solution for the **MCM/ICM 2025 Problem E**.
+> - We developed a dynamic model using modified Lotka-Volterra equations to simulate the nitrogen cycle in forest and agricultural ecosystems, analyzing the ecological transition from forest to sustainable farmland.
 > - This project includes the **TeX source document** of the thesis as well as **all the codes**.
 > - In addition, for the Chinese version of the paper and the personal journey, please refer to the blog post **[2025 MCM E Problem F Award Winning Paper Sharing](https://www.cnblogs.com/JQ-Luke/p/18858431)**.
 ---
