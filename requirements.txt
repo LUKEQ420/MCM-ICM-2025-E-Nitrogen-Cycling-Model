@@ -1,0 +1,10 @@
+# requirements.txt
+
+# Core libraries for scientific computing & modeling
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+matplotlib==3.9.2
+
+# Library for running the notebooks
+jupyterlab==4.2.1
