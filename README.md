@@ -54,7 +54,7 @@ MCM-ICM-2025-E-Nitrogen-Cycling-Model/
     ├── main.tex             # LaTeX source file
     ├── references.bib       # references
     ├── figures/             # figures
-    └── Nitrogen_Cycle_Paper.pdf # Final PDF version of our paper
+    └── 2515324.pdf          # Final PDF version of our paper
 ```
 
 ## 🚀 Getting Started
