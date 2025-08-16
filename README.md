@@ -11,7 +11,7 @@
 </div>
 <div align="left">
 
-English / **[简体中文](./README_zh.md)**
+点击切换为中文版☞ **[简体中文](./README_zh.md)**
 
 </div>
 
